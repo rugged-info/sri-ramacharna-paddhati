@@ -1,0 +1,43 @@
+# Python virtual environment
+.venv/
+venv/
+
+# macOS junk
+.DS_Store
+*.swp
+
+# OCR intermediate images
+debug_intermediate/
+*_gray.tif
+*_denoise.tif
+*_crop.tif
+*_norm.tif
+*_prep.tif
+
+# Raw converted TIFFs (if you don’t want to track them)
+*.tif
+*.tiff
+
+# NEF RAW images (huge!)
+*.NEF
+
+# API output intermediates
+*.lines_translated.txt
+*.translated.txt
+*.protocol.md
+
+# Combined book outputs
+combined_*.txt
+combined_*.md
+
+# Logs
+*.log
+
+#Python scripts
+*.py
+
+#Pdfs
+*.pdf
+
+#Other working directories
+each_page_txt_files/
