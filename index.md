@@ -1,6 +1,4 @@
-cd /path/to/sri-ramacharna-paddhati
 
-cat > index.md << 'EOF'
 # Śrī Rāmarcana Paddhati
 
 This site presents OCR, transliteration, and translation of the
