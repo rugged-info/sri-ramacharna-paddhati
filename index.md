@@ -1,4 +1,3 @@
-
 # Śrī Rāmarcana Paddhati
 
 This site presents OCR, transliteration, and translation of the
@@ -14,4 +13,3 @@ This site presents OCR, transliteration, and translation of the
 
 - [Chapter 1](texts/ch1.protocol.md)
 - [Chapter 2](texts/ch2.protocol.md)
-EOF
